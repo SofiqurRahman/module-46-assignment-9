@@ -1,0 +1,58 @@
+.header{
+    height: 900px;
+    background-position: center center;
+    background-size: 100% 100%;
+    margin-top: -16px;
+}
+.brand{
+    position: relative;
+    top: 20px;
+    right: 85px
+}
+.header .logo{
+    height: 50px;
+}
+.navInput{
+    width: 20%;
+    padding: 15px 30px;
+    border: 1px solid #fff;
+    border-radius:5px;
+    background: transparent;
+    color: #fff;
+}
+.title-container{
+    color: rgba(255, 255, 255, 0.699);
+    text-align: center;
+    font-size: 1em;
+    float: left;
+    width: 30%;
+    text-align: justify;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.nav{
+    margin-left: 200px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+} 
+.nav a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+}
+.navColor{
+    background-color: #F9A51A;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.booking{
+    background-color: #F9A51A;
+    color: #000;
+    padding: 10px 30px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

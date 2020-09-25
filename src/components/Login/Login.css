@@ -1,0 +1,53 @@
+.loginForm{
+  width: 30%;
+  position: absolute;
+  top: 130px;
+  right: 70px;
+  background-color: #fff;
+  border-radius:10px;
+}
+.text{
+  width: 70%;
+  font-size: 1em;
+  border: 1px solid lightgray;
+  padding: 10px 30px;
+  margin-bottom: 15px;
+}
+.password{
+  width: 70%;
+  font-size: 1em;
+  border: 1px solid lightgray;
+  padding: 10px 30px;
+  margin-bottom: 15px;
+}
+.linkLeft{
+  margin-right: 110px;
+}
+.linkColor{
+  color: #F9A51A;
+  text-decoration: underline;
+}
+.logBtn{
+  margin-top: 10px;
+  background-color: #F9A51A;
+  width:85%;
+  padding: 15px 30px;
+  border:none;
+}
+.googleBtn{
+  border-radius: 50px;
+  border: 1px solid lightgray;
+  background-color: transparent;
+  padding: 15px 125px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.fbBtn{
+  border-radius: 50px;
+  border: 1px solid lightgray;
+  background-color: transparent;
+  padding: 15px 118px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
